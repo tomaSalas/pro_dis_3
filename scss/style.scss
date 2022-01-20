@@ -1,0 +1,44 @@
+@import "./svg/bell.scss",
+        "./sections/index",
+        "./utilities/media";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.even-margin {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+  
+section {    
+  border-bottom: 1px solid #cccccc;
+  padding-bottom: 20px;
+}
+
+.section-headline {
+  margin: 20px 0px 10px 0px;
+}
+
+.widget-container-full,
+.widget-container-half {
+  padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
